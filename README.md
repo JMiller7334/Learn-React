@@ -1,3 +1,19 @@
+# Learn-React Project
+## Overview:
+My second project using react and my first functional web app created using React.
+This app allows users to create a list of Todos.
+
+## Features:
++ Displays list of todos, total number of todos and if they are completed.
++ Display updates when todo properties are changed.
++ Displays total number of todos.
++ User can clear all existing todos that are completed via button.
++ Data is persistant - web app saves and loads todo list from local data.
+
+## Project Goals:
++ Improve my javascript skills
++ Get better understanding of React.js and how it works.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
