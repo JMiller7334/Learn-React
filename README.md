@@ -12,7 +12,7 @@ This app allows users to create a list of Todos.
 
 ## Project Goals:
 + Improve my javascript skills
-+ Get better understanding of React.js and how it works.
++ Get a better understanding of React.js and how it works.
 
 # Getting Started with Create React App
 
