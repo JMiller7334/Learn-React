@@ -4,7 +4,7 @@ My second project using react and my first functional web app created using Reac
 This app allows users to create a list of Todos.
 
 ## Features:
-+ Displays list of todos, total number of todos and if they are completed.
++ Displays list of todos, total number of todos, and if they are completed.
 + Display updates when todo properties are changed.
 + Displays total number of todos.
 + User can clear all existing todos that are completed via button.
